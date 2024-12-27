@@ -313,7 +313,6 @@ PopDen_LA_layer.add_to(m)
 MetroLines_layer.add_to(m)
 
 
-
 # Añadir control de capas
 folium.LayerControl().add_to(m)
 
