@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 
-# URL de la página con la tabla
+# URL de la pagina con la tabla
 url = "https://www.laalmanac.com/social/so14.php"
 
 # Obtener el HTML de la página
