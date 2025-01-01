@@ -84,8 +84,10 @@ plt.legend()
 plt.xticks(rotation=45)
 plt.show()
 
+
 # Calcular la correlación entre los sentimientos positivos y negativos
 correlation = df[['Negative', 'Positive']].corr()
+
 
 # Mostrar la correlación
 print("\nCorrelación entre Sentimientos Negativos y Positivos:")
