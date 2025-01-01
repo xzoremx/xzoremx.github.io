@@ -1,4 +1,4 @@
-# Análisis de Sentimientos de Canales Tecnológicos
+# Análisis de Sentimientos de Canales de Review Tech en YouTube
 
 Este proyecto analiza los sentimientos expresados en los subtítulos de videos de cinco canales de tecnología en YouTube: **Dave2D**, **Linus Tech Tips**, **Marques Brownlee**, **Mrwhosetheboss**, y **ShortCircuit**. El objetivo principal es examinar el lenguaje utilizado en las reseñas tecnológicas y comparar los patrones de sentimientos entre estos canales.
 
