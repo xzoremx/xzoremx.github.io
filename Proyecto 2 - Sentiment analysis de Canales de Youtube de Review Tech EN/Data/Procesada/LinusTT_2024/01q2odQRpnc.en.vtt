@@ -1,0 +1,192 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.120 --> 00:00:02.190 align:start position:0%
+ 
+Derek<00:00:00.520><c> asks</c><00:00:00.960><c> does</c><00:00:01.240><c> thermal</c><00:00:01.599><c> throttling</c>
+
+00:00:02.190 --> 00:00:02.200 align:start position:0%
+Derek asks does thermal throttling
+ 
+
+00:00:02.200 --> 00:00:04.390 align:start position:0%
+Derek asks does thermal throttling
+really<00:00:02.639><c> reduce</c><00:00:03.080><c> the</c><00:00:03.240><c> lifespan</c><00:00:03.679><c> of</c><00:00:03.800><c> your</c><00:00:03.959><c> CPU</c>
+
+00:00:04.390 --> 00:00:04.400 align:start position:0%
+really reduce the lifespan of your CPU
+ 
+
+00:00:04.400 --> 00:00:06.829 align:start position:0%
+really reduce the lifespan of your CPU
+or<00:00:04.680><c> GPU</c><00:00:05.680><c> and</c><00:00:05.799><c> the</c><00:00:05.960><c> answer</c>
+
+00:00:06.829 --> 00:00:06.839 align:start position:0%
+or GPU and the answer
+ 
+
+00:00:06.839 --> 00:00:10.270 align:start position:0%
+or GPU and the answer
+is<00:00:07.839><c> it's</c><00:00:08.160><c> complicated</c><00:00:08.920><c> High</c><00:00:09.120><c> thermals</c><00:00:09.880><c> do</c>
+
+00:00:10.270 --> 00:00:10.280 align:start position:0%
+is it's complicated High thermals do
+ 
+
+00:00:10.280 --> 00:00:12.110 align:start position:0%
+is it's complicated High thermals do
+impact<00:00:10.639><c> the</c><00:00:10.800><c> lifespan</c><00:00:11.360><c> of</c><00:00:11.480><c> an</c><00:00:11.639><c> integrated</c>
+
+00:00:12.110 --> 00:00:12.120 align:start position:0%
+impact the lifespan of an integrated
+ 
+
+00:00:12.120 --> 00:00:14.190 align:start position:0%
+impact the lifespan of an integrated
+circuit<00:00:12.880><c> however</c><00:00:13.200><c> thermal</c><00:00:13.559><c> throttling</c>
+
+00:00:14.190 --> 00:00:14.200 align:start position:0%
+circuit however thermal throttling
+ 
+
+00:00:14.200 --> 00:00:15.990 align:start position:0%
+circuit however thermal throttling
+specifically<00:00:15.080><c> is</c><00:00:15.160><c> a</c><00:00:15.320><c> feature</c><00:00:15.679><c> that's</c>
+
+00:00:15.990 --> 00:00:16.000 align:start position:0%
+specifically is a feature that's
+ 
+
+00:00:16.000 --> 00:00:19.189 align:start position:0%
+specifically is a feature that's
+actually<00:00:16.400><c> designed</c><00:00:16.840><c> to</c><00:00:17.240><c> extend</c><00:00:18.240><c> your</c><00:00:18.439><c> CPU</c><00:00:19.000><c> or</c>
+
+00:00:19.189 --> 00:00:19.199 align:start position:0%
+actually designed to extend your CPU or
+ 
+
+00:00:19.199 --> 00:00:21.550 align:start position:0%
+actually designed to extend your CPU or
+your<00:00:19.359><c> gpu's</c><00:00:19.920><c> lifespan</c><00:00:20.600><c> once</c><00:00:20.800><c> it</c><00:00:20.960><c> reaches</c><00:00:21.359><c> a</c>
+
+00:00:21.550 --> 00:00:21.560 align:start position:0%
+your gpu's lifespan once it reaches a
+ 
+
+00:00:21.560 --> 00:00:24.150 align:start position:0%
+your gpu's lifespan once it reaches a
+certain<00:00:22.240><c> maximum</c><00:00:22.760><c> Target</c><00:00:23.160><c> temperature</c><00:00:24.000><c> it</c>
+
+00:00:24.150 --> 00:00:24.160 align:start position:0%
+certain maximum Target temperature it
+ 
+
+00:00:24.160 --> 00:00:26.390 align:start position:0%
+certain maximum Target temperature it
+will<00:00:24.400><c> lower</c><00:00:24.800><c> its</c><00:00:25.080><c> power</c><00:00:25.359><c> Target</c><00:00:25.840><c> in</c><00:00:25.920><c> order</c><00:00:26.199><c> to</c>
+
+00:00:26.390 --> 00:00:26.400 align:start position:0%
+will lower its power Target in order to
+ 
+
+00:00:26.400 --> 00:00:29.029 align:start position:0%
+will lower its power Target in order to
+meet<00:00:26.640><c> a</c><00:00:26.840><c> point</c><00:00:27.160><c> where</c><00:00:27.439><c> it</c><00:00:27.800><c> matches</c><00:00:28.679><c> whatever</c>
+
+00:00:29.029 --> 00:00:29.039 align:start position:0%
+meet a point where it matches whatever
+ 
+
+00:00:29.039 --> 00:00:30.749 align:start position:0%
+meet a point where it matches whatever
+thermal<00:00:29.359><c> solution</c><00:00:29.679><c> is</c><00:00:29.800><c> in</c><00:00:30.000><c> installed</c><00:00:30.320><c> on</c><00:00:30.480><c> it</c>
+
+00:00:30.749 --> 00:00:30.759 align:start position:0%
+thermal solution is in installed on it
+ 
+
+00:00:30.759 --> 00:00:33.470 align:start position:0%
+thermal solution is in installed on it
+even<00:00:31.000><c> going</c><00:00:31.279><c> as</c><00:00:31.439><c> far</c><00:00:31.640><c> as</c><00:00:31.759><c> to</c><00:00:32.079><c> operate</c><00:00:32.680><c> albeit</c>
+
+00:00:33.470 --> 00:00:33.480 align:start position:0%
+even going as far as to operate albeit
+ 
+
+00:00:33.480 --> 00:00:35.869 align:start position:0%
+even going as far as to operate albeit
+very<00:00:33.719><c> slowly</c><00:00:34.520><c> with</c><00:00:34.760><c> no</c><00:00:35.040><c> cooling</c><00:00:35.440><c> solution</c>
+
+00:00:35.869 --> 00:00:35.879 align:start position:0%
+very slowly with no cooling solution
+ 
+
+00:00:35.879 --> 00:00:38.350 align:start position:0%
+very slowly with no cooling solution
+installed<00:00:36.440><c> whatsoever</c><00:00:37.160><c> so</c><00:00:37.399><c> in</c><00:00:37.600><c> general</c><00:00:38.200><c> you</c>
+
+00:00:38.350 --> 00:00:38.360 align:start position:0%
+installed whatsoever so in general you
+ 
+
+00:00:38.360 --> 00:00:40.790 align:start position:0%
+installed whatsoever so in general you
+do<00:00:38.600><c> want</c><00:00:38.800><c> things</c><00:00:39.000><c> to</c><00:00:39.160><c> run</c><00:00:39.760><c> as</c><00:00:40.039><c> cool</c><00:00:40.520><c> as</c>
+
+00:00:40.790 --> 00:00:40.800 align:start position:0%
+do want things to run as cool as
+ 
+
+00:00:40.800 --> 00:00:42.910 align:start position:0%
+do want things to run as cool as
+possible<00:00:41.559><c> but</c><00:00:41.760><c> we</c><00:00:41.920><c> also</c><00:00:42.120><c> have</c><00:00:42.239><c> to</c><00:00:42.680><c> understand</c>
+
+00:00:42.910 --> 00:00:42.920 align:start position:0%
+possible but we also have to understand
+ 
+
+00:00:42.920 --> 00:00:44.709 align:start position:0%
+possible but we also have to understand
+realistically<00:00:43.840><c> that</c><00:00:44.000><c> there</c><00:00:44.120><c> are</c><00:00:44.399><c> safety</c>
+
+00:00:44.709 --> 00:00:44.719 align:start position:0%
+realistically that there are safety
+ 
+
+00:00:44.719 --> 00:00:46.670 align:start position:0%
+realistically that there are safety
+measures<00:00:45.039><c> in</c><00:00:45.280><c> place</c><00:00:45.800><c> and</c><00:00:46.120><c> that</c><00:00:46.280><c> modern</c>
+
+00:00:46.670 --> 00:00:46.680 align:start position:0%
+measures in place and that modern
+ 
+
+00:00:46.680 --> 00:00:48.869 align:start position:0%
+measures in place and that modern
+processors<00:00:47.399><c> are</c><00:00:47.680><c> designed</c><00:00:48.079><c> to</c><00:00:48.280><c> run</c><00:00:48.559><c> at</c><00:00:48.719><c> these</c>
+
+00:00:48.869 --> 00:00:48.879 align:start position:0%
+processors are designed to run at these
+ 
+
+00:00:48.879 --> 00:00:51.470 align:start position:0%
+processors are designed to run at these
+higher<00:00:49.199><c> temperatures</c><00:00:50.160><c> without</c><00:00:50.960><c> immediately</c>
+
+00:00:51.470 --> 00:00:51.480 align:start position:0%
+higher temperatures without immediately
+ 
+
+00:00:51.480 --> 00:00:53.310 align:start position:0%
+higher temperatures without immediately
+dying<00:00:51.920><c> at</c><00:00:52.039><c> least</c><00:00:52.440><c> not</c><00:00:52.600><c> until</c><00:00:52.760><c> your</c><00:00:52.879><c> warranty</c>
+
+00:00:53.310 --> 00:00:53.320 align:start position:0%
+dying at least not until your warranty
+ 
+
+00:00:53.320 --> 00:00:55.800 align:start position:0%
+dying at least not until your warranty
+expires
+
