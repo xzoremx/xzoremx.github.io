@@ -1,6 +1,6 @@
 # Análisis de la Adopción del Transporte Público en Los Ángeles
 
-Este proyecto analiza el uso del transporte público en Los Ángeles, con un enfoque en la relación entre las ubicaciones geográficas de las estaciones de metro y las personas que tienen un tiempo de traslado al trabajo superior a los 90 minutos. A través de un mapa interactivo y un análisis de densidad poblacional, este estudio intenta comprender los factores que afectan la adopción del transporte público, como la accesibilidad de las estaciones, la seguridad en las áreas cercanas y las características sociodemográficas de la población.
+Este proyecto analiza el uso del transporte público en Los Ángeles con un enfoque en la relación entre las ubicaciones geográficas de las estaciones de metro y las personas que tienen un tiempo de traslado al trabajo superior a los 90 minutos. A través de un mapa interactivo y un análisis de densidad poblacional, este estudio intenta comprender los factores que afectan la adopción del transporte público, como la accesibilidad de las estaciones, la seguridad en las áreas cercanas y las características sociodemográficas de la población.
 
 ## Objetivos
 
