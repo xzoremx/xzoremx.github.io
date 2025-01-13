@@ -1,4 +1,4 @@
-# YouTube Timestamp Subtitles
+# YouTube Timestamp Subtitles (Extensión Web)
 
 Una extensión de navegador para **Google Chrome** que permite generar y buscar subtítulos sincronizados con la marca de tiempo exacta de un video en YouTube.
 
