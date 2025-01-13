@@ -32,7 +32,6 @@ Para probar la extensión en tu navegador, sigue estos pasos:
 3. Usa el campo de búsqueda para buscar términos dentro de los subtítulos del video.
 4. Los resultados aparecerán con un enlace directo al timestamp correspondiente del video.
 
-### Estructura del Proyecto
 
 
 
