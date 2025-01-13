@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Timestamp Subtitles</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <img id="thumbnail-image" alt="Video Thumbnail">
+        
+        <!-- Mensaje de estado -->
+        <div id="message"></div>
+        <!-- Animación de carga -->
+        <div id="loading_animation">
+            <div class="nucleus"></div>
+        </div>
+        <!-- Campos de búsqueda -->
+        <div class="search-area">
+            <input type="text" id="search-term" placeholder="Search subtitles...">
+            <button id="search-btn">Search</button>
+        </div>
+
+        <!-- Resultados -->
+        <div id="results"></div>
+    </div>
+    <script src="popup.js"></script>
+</body>
+</html>
