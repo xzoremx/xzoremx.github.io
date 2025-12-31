@@ -7,6 +7,7 @@ base_path = "Data/Resultados"
 base_dashboard_path = "Dashboards"
 
 
+
 # Mapeo de las carpetas a los nombres de los canales
 channel_mapping = {
     'Dave2D_2024': 'Dave2D',

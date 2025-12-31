@@ -2,6 +2,7 @@ import os
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
 
+
 # se carga el modelo y el tokenizador
 modelo = AutoModelForSequenceClassification.from_pretrained("cardiffnlp/twitter-roberta-base-sentiment")
 tokenizador = AutoTokenizer.from_pretrained("cardiffnlp/twitter-roberta-base-sentiment")

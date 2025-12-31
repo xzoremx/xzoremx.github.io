@@ -3,6 +3,8 @@ import os
 # directorio donde se encuentran los archivos .txt
 directorio = "Data/Preparada" 
 
+
+
 # funcion para combinar las filas hasta que lleguen a una longitud maxima de 512 caracteres
 def combinar_filas_en_oraciones(ruta_archivo, max_longitud=512):
     with open(ruta_archivo, 'r', encoding='utf-8') as file:

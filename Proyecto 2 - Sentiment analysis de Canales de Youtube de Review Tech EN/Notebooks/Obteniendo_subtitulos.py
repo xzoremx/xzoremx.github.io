@@ -7,6 +7,7 @@ directorio_txt = 'Data\\Sin Procesar\\'
 directorio_destino = 'Data\\Procesada\\'
 
 
+
 # Diccionario que mapea los archivos .txt a sus respectivos nombres de canal
 canales = {
     'videos_id_MKBHD_2024.txt': 'MKBHD_2024',

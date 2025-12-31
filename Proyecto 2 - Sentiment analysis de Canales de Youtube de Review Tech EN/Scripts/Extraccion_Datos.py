@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 input_file_path = "Dashboards/Analisis_Sentimiento_Combinado.csv"
 df = pd.read_csv(input_file_path)
 
+
 # Verificar que se haya cargado correctamente
 print("Primeras filas del DataFrame:")
 print(df.head())

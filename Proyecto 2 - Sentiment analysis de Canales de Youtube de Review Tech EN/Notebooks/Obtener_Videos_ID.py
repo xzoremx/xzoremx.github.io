@@ -2,8 +2,9 @@ from googleapiclient.discovery import build
 import datetime
 import pandas as pd
 
+
 # API key y el ID de un solo canal
-llave_api = "AIzaSyD3NuM-ZDuiNuhv819Wq41qTdEmOL90nP0"
+llave_api = "LLAVE_API"
 canales_id = [
     "UCBJycsmduvYEL83R_U4JriQ",  # 1. Marques Brownlee
     "UCMiJRAwDNSNzuYeN2uWa0pA",  # 2. Mrwhosetheboss

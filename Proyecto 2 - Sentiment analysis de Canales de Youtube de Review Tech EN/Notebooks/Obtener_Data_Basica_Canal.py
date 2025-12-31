@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib
 
 
-llave_api = "AIzaSyD3NuM-ZDuiNuhv819Wq41qTdEmOL90nP0"
+llave_api = "LLAVE_API"
 
 #Se prueba obtener data basica con el canal del Youtuber "Michael Reeves"
 canal_id = "UCtHaxi4GTYDpJgMSGy7AeSw"

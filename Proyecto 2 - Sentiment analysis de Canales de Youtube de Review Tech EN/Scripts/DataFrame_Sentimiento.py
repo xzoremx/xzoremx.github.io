@@ -4,6 +4,7 @@ import os
 # ruta donde estan los CSV
 dashboard_path = "Dashboards"
 
+
 # Crear un dataframe vacio para combinar todos los datos
 Analisis_Sentimiento_DF = pd.DataFrame()
 
