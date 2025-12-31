@@ -6,6 +6,7 @@ Este proyecto analiza los sentimientos expresados en los subtítulos de videos d
 
 Este análisis se lleva a cabo utilizando los archivos de subtítulos generados automáticamente por YouTube (archivos CSV), que contienen las transcripciones de los videos. A través de herramientas de análisis de datos como **Python**, **Excel** y **Power BI**, se procesan los datos para extraer los sentimientos de los videos y generar visualizaciones interactivas.
 
+
 ## Objetivo del Proyecto
 
 - **Análisis de Sentimiento:** Evaluar el sentimiento (positivo, negativo y neutral) en los subtítulos de los videos.

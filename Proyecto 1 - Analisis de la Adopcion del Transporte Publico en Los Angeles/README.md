@@ -8,6 +8,7 @@ Este proyecto analiza el uso del transporte público en Los Ángeles con un enfo
 - Evaluar cómo la distribución de las estaciones y la densidad poblacional impactan el uso del transporte público en Los Ángeles.
 - Identificar las estaciones más populares y examinar las posibles causas del bajo uso de algunas estaciones, como la inseguridad y la concentración de personas sin hogar en ciertas áreas.
 
+
 ## Datos Utilizados
 
 - **Estaciones de Metro de Los Ángeles:** Datos geográficos y de rutas de las estaciones de metro y trenes.
