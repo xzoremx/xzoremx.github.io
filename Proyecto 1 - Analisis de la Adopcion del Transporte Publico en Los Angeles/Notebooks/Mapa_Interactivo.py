@@ -13,6 +13,7 @@ from difflib import SequenceMatcher
 import branca
 
 
+
 # Cargar datos desde el archivo Excel
 df_homeless = pd.read_excel("Data/Procesada/Poblacion_SinHogar_SPA_Limpia.xlsx")
 

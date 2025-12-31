@@ -1,6 +1,7 @@
 import geopandas as gpd
 
 # Definir las rutas de entrada y salida
+
 shapefile_path = r"Data/Sin Procesar/ACS Population Variables - Boundaries/population_den.shp"
 # Cargar el shapefile en un GeoDataFrame
 gdf = gpd.read_file(shapefile_path)

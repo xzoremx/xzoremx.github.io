@@ -2,6 +2,7 @@ import pandas as pd
 
 # Cargar archivos
 
+
 routes = pd.read_csv("Data/Sin Procesar/gtfs_rail/routes.txt")
 shapes = pd.read_csv("Data/Sin Procesar/gtfs_rail/shapes.txt")
 stop_times = pd.read_csv("Data/Sin Procesar/gtfs_rail/stop_times.txt")

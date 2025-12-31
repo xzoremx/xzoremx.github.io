@@ -2,6 +2,7 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 
+
 # URL de la pagina con la tabla
 url = "https://www.laalmanac.com/social/so14.php"
 
